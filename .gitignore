@@ -1,0 +1,5 @@
+.ipynb_checkpoints/*
+Documents/*
+Data/*
+Code/__pychache__/*
+Code/.ipynb_checkpoints/*
