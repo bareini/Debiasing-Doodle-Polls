@@ -1,6 +1,6 @@
 <img src="logo.png" width=125 height=125 align="right">
 
-# Debiasing-Doodle-Polls
+# Debiasing Doodle Polls
 
 This repository details a suggested approach to circumvent social bias on open Doodle polls.
 
