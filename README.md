@@ -1,3 +1,5 @@
+![](https://img.shields.io/github/license/tom-beer/Debiasing-Doodle-Polls?color=magenta&style=plastic)
+
 <img src="Images/logo.png" width=135 height=100 align="right">
 
 # Debiasing Doodle Polls
