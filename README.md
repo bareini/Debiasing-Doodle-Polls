@@ -8,10 +8,12 @@
 
 This repository details a suggested approach to circumvent social bias on open Doodle polls.
 
-A full walkthrough can be found [here](https://tom-beer.github.io/post/debiasing-doodle-polls/).
+The main code is ```debiasing_simulation.ipynb```.
+
+A full walkthrough of the theory, suggested approach, code and results can be found [here](https://tom-beer.github.io/post/debiasing-doodle-polls/).
 
 
-<br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br />
+<br /> <br /> <br /> <br /> <br /> <br /> 
 
 ---
 logo created by [Adrien Coquet](https://thenounproject.com/search/?q=poll&i=2714889) from the Noun Project
