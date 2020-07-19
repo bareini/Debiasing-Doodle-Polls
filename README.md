@@ -1,4 +1,4 @@
-<img src="logo.png" width=125 height=125 align="right">
+<img src="Images/logo.png" width=135 height=100 align="right">
 
 # Debiasing Doodle Polls
 
