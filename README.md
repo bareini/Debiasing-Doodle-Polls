@@ -8,7 +8,12 @@ This repository details a suggested approach to circumvent social bias on open D
 
 A full walkthrough can be found [here](https://tom-beer.github.io/post/debiasing-doodle-polls/).
 
-<p align="center">
-  <img width="400" height="500" src="Code/Images/poll-demo2.jpg"">
-</p>
+<img align="left" width="400" height="400" src="Code/Images/poll-demo2.jpg">
+
+This is the code you need to align images to the left:
+
+
+---
+
+
 logo created by [Adrien Coquet](https://thenounproject.com/search/?q=poll&i=2714889) from the Noun Project
